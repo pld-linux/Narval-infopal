@@ -6,6 +6,7 @@ Name:		Narval-%{short_name}
 Version:	20011016
 Release:	1
 Source0:	ftp://ftp.logilab.org/pub/narval/applications/%{short_name}-%{version}.npm
+# Source0-md5:	46959c58db9d0a2da357370abf9f5328
 License:	GPL
 Group:		Applications
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
