@@ -1,9 +1,11 @@
+%define short_name infopal
+
 Summary:	Information pal
 Summary(pl):	Kompel informacyjny
-Name:		infopal
+Name:		Narval-%{short_name}
 Version:	20011016
 Release:	1
-Source0:	ftp://ftp.logilab.org/pub/narval/applications/%{name}-%{version}.npm
+Source0:	ftp://ftp.logilab.org/pub/narval/applications/%{short_name}-%{version}.npm
 License:	GPL
 Group:		Applications
 Group(de):	Applikationen
