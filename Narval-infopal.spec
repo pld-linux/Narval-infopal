@@ -3,12 +3,12 @@
 Summary:	Information pal
 Summary(pl):	Kumpel informacyjny
 Name:		Narval-%{short_name}
-Version:	20011016
+Version:	20020927
 Release:	1
 License:	GPL
 Group:		Applications
 Source0:	ftp://ftp.logilab.org/pub/narval/applications/%{short_name}-%{version}.npm
-# Source0-md5:	46959c58db9d0a2da357370abf9f5328
+# Source0-md5:	944d56d9d8e980646ca53a8e6af87f2d
 URL:		http://www.logilab.org/narval/app.html
 Requires:	Narval
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
