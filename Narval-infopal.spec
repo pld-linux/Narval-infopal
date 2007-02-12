@@ -1,7 +1,7 @@
 %define short_name infopal
 
 Summary:	Information pal
-Summary(pl.UTF-8):   Kumpel informacyjny
+Summary(pl.UTF-8):	Kumpel informacyjny
 Name:		Narval-%{short_name}
 Version:	20020927
 Release:	1
