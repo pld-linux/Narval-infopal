@@ -1,7 +1,7 @@
 %define short_name infopal
 
 Summary:	Information pal
-Summary(pl):	Kumpel informacyjny
+Summary(pl.UTF-8):   Kumpel informacyjny
 Name:		Narval-%{short_name}
 Version:	20020927
 Release:	1
@@ -18,10 +18,10 @@ Infopal is an extension set for Narval. It let one set up an
 information pal that acts as a web proxy, builds a daily newspaper,
 monitors websites for changes, classifies bookmarks, etc.
 
-%description -l pl
-Infopal to zestaw rozszerzeñ dla Narvala. Pozwala na skonfigurowanie
-osobistego informacyjnego kumpla, który dzia³a jako proxy WWW, tworzy
-codzienn± gazetê, ¶ledzi zmiany stron WWW, klasyfikuje zak³adki itp.
+%description -l pl.UTF-8
+Infopal to zestaw rozszerzeÅ„ dla Narvala. Pozwala na skonfigurowanie
+osobistego informacyjnego kumpla, ktÃ³ry dziaÅ‚a jako proxy WWW, tworzy
+codziennÄ… gazetÄ™, Å›ledzi zmiany stron WWW, klasyfikuje zakÅ‚adki itp.
 
 %prep
 
